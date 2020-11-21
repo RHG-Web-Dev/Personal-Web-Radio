@@ -1,0 +1,33 @@
+/* Nice you found this URL to this css code. */
+
+.navbar {
+	background-color: #fa434e;
+}
+
+.circle-image-big {
+	border: 3px solid #fa434e;
+	background: transparent;
+	animation-name: spin;
+    animation-duration: 5000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes spin {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+}
+
+body { background-color: #000000 !important; }
+
+.dark-div { border: solid 2px #fa434e; }
+
+.dark-button {
+    background-color: #2c2f33 !important;
+	z-index: 10;
+    border-radius: 10px !important;
+}
+
+.dark-div a {
+    border: solid 1px #fa434e !important;
+}
