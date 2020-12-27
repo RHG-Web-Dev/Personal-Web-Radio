@@ -1,5 +1,22 @@
 /* Nice! You found this URL to steal this css. */
+.bg-secondary {
+    background-color: #fa434e;
+}
+.h1, h1 {
+    color: #fa434e;
+}
+.text-muted {
+    color: #ff7a82;
+}
+.h6, h6 {
+    color: #ffffff;
+}
+.badge-black {
+    background-color: #fa434e;
+}
 
+/*
+OLD CSS
 .navbar { background-color: #fa434e; }
 
 .circle-image-big {
@@ -27,7 +44,7 @@ body { background-color: #000000 !important; }
 }
 
 .dark-div a { border: solid 1px #fa434e !important; }
-
+*/
 /* 
 ...###..######..###......########..##.....##..######..
 ..##...##....##...##.....##.....##.##.....##.##....##.
